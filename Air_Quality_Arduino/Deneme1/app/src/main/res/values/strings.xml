@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AirQuality App</string>
+    <string name="google_maps_key">AIzaSyBNi2HPaEN6ioyVTg2lM6IahFBoepXqEmg</string>
+    <string name="graph_text">Tap on a rectangle on the map to activate the air quality graphs</string>
+</resources>
